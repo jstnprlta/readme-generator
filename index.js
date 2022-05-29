@@ -3,7 +3,7 @@ const fs = require('fs')
 
 
 inquirer
-  // list of questions to gather information for the readme
+  // list of questions 
   .prompt([
     {
       type: 'input',
